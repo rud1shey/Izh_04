@@ -1,0 +1,11 @@
+C:\Users\dmitr\source\repos\izh_04\izh_04\bin\Debug\netcoreapp2.1\izh_04.deps.json
+C:\Users\dmitr\source\repos\izh_04\izh_04\bin\Debug\netcoreapp2.1\izh_04.runtimeconfig.json
+C:\Users\dmitr\source\repos\izh_04\izh_04\bin\Debug\netcoreapp2.1\izh_04.runtimeconfig.dev.json
+C:\Users\dmitr\source\repos\izh_04\izh_04\bin\Debug\netcoreapp2.1\izh_04.dll
+C:\Users\dmitr\source\repos\izh_04\izh_04\obj\Debug\netcoreapp2.1\izh_04.csprojAssemblyReference.cache
+C:\Users\dmitr\source\repos\izh_04\izh_04\obj\Debug\netcoreapp2.1\izh_04.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\izh_04\izh_04\obj\Debug\netcoreapp2.1\izh_04.AssemblyInfoInputs.cache
+C:\Users\dmitr\source\repos\izh_04\izh_04\obj\Debug\netcoreapp2.1\izh_04.AssemblyInfo.cs
+C:\Users\dmitr\source\repos\izh_04\izh_04\bin\Debug\netcoreapp2.1\izh_04.pdb
+C:\Users\dmitr\source\repos\izh_04\izh_04\obj\Debug\netcoreapp2.1\izh_04.dll
+C:\Users\dmitr\source\repos\izh_04\izh_04\obj\Debug\netcoreapp2.1\izh_04.pdb
